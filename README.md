@@ -32,10 +32,11 @@ When the user enters any of the listed numbers, the program will return the corr
 8     VIII          18      XVIII               800   DCCC
 
 5. 9s - when 9 of any character is required, instead of 9 of that symbol, it is composed of that symbol, followed by the symbol for the next level.
+9     IX           
+90    XC            
+900   CD
 
-
-
-10. Error if non-numeric or > 3999 is entered, or < 1.
+6. Error if form is left blank, a non-numeric is entered, or the number is > 3999 or < 1.
 
 ## Setup/Installation Requirements
 
@@ -48,7 +49,7 @@ When the user enters any of the listed numbers, the program will return the corr
 
 ## Support and contact details
 
-_Contact Tessa Sullivan at tessa.sullivan@gmail.com or Kevin Garvey at _
+_Contact Tessa Sullivan at tessa.sullivan@gmail.com or Kevin Garvey at kmgarvey279@gmail.com_
 
 ## Technologies Used
 
